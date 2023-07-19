@@ -1,0 +1,5 @@
+.listResult{
+    display: flex;
+    gap: 10px;
+    margin: 0px 60px;
+}

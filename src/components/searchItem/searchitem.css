@@ -1,0 +1,51 @@
+/*.buttoncontainer{
+  display: flex;
+  justify-content: space-around;
+}*/
+
+.searchItem{
+  width : 50vh;
+  background-color: rgb(255, 255, 255) ;
+  margin-top: 4px;
+}
+
+.button{
+  width: 100%;
+  background-color: rgb(87, 122, 130);
+  border-radius: 8px;
+  height: 40px;
+  font-weight: 700;
+}
+
+.button:hover{
+  background-color: rgb(87, 122, 56);
+}
+
+.restaurantImage{
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.restaurantName{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.distance {
+  margin-bottom: 5px;
+  color: grey;
+}
+
+.icon{
+  font-weight: 800;
+  margin-right: 3px;
+  color: black;
+}
+.rating{
+  color: rgb(111, 105, 105);
+}
+.cuisneAvail{
+  margin-bottom: 3px;
+}
