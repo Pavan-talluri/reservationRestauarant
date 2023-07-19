@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+and I utilized the Booking.com website as the primary data source for my frontend application replacing the components according this project needs.
 
 ## Available Scripts
 
